@@ -1,0 +1,59 @@
+.marginTop {
+	margin-top: 80px;
+}
+.preDay {
+	background-color: #F5F5F5;
+}
+.postDay {
+	background-color: #F5F5F5;
+}
+.break {
+	clear:both;
+}
+.nextprev {
+	width: 50px;
+}
+.actDay{
+	color:red;
+}
+.activeDays {
+	height: 100px;
+}
+.preDay {
+	height: 100px;
+}
+#logout{
+	margin-right: 20px;
+}
+.activeDays:hover {
+	height: 100px;
+	background-color: #F5F5F5;
+}
+.preDay:hover {
+	height: 100px;
+	background-color: #F5F5F5;
+}
+#btntoday{
+	width:70px;
+	font-weight: bold;
+}
+#control-l{
+	text-align: left;
+	float:left;
+	margin-bottom: 5px;
+}
+#control-rm{
+	font-size: 1.4em;
+	text-align:right;
+	padding-top: 3px;
+	margin-bottom: 5px;
+}
+#control-r{
+	float:right;
+	text-align: right;
+	font-size: 1.4em;
+	padding: 3px 0 0 5px;
+}
+#modalTitle{
+        margin: 25 25 0 0;
+      }

@@ -1,0 +1,9 @@
+Klick auf About und Contact funktioniert nicht richtig nach ajax call
+
+Schaltjahre werden die preDays nicht korrekt berechnet
+
+$.post( $("#loginform").attr("action"), 
+            $("#loginform :input").serializeArray(),
+            function(data){
+              $("#messages").html(data);
+            });
